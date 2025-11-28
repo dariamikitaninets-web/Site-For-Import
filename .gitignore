@@ -1,4 +1,5 @@
 private/ 
+.DS_Store
 tmp/
-.old
-.backup
+*.old
+*.backup
