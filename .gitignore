@@ -1,0 +1,4 @@
+private/ 
+tmp/
+*.old
+*.backup
